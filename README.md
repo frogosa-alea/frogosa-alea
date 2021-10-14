@@ -5,9 +5,7 @@
 ## I'm a 4th Year Computer Engineering Student from PUP Manila
 
 - 👨‍💻 I’m currently working on frontend web development projects
-- 📚 I’m currently learning database and backend technologies �
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 📚 I’m currently learning database and backend technologies 
 
 ---
 
