@@ -41,6 +41,7 @@
 ### Github Statistics
 <p align= "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frogosa-alea"/>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=frogosa-alea"/>
 </p>
 ---
