@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a 4th Year Computer Engineering Student from PUP Manila
 
 - 👨‍💻 I’m currently working on frontend web development projects
 - 📚 I’m currently learning database and backend technologies �
