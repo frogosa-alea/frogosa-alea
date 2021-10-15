@@ -39,9 +39,7 @@
 
 ---
 ### 🔥 Github Statistics
-<hr>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frogosa-alea&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=frogosa-alea&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=frogosa-alea&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br/>
