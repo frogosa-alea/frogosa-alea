@@ -39,5 +39,6 @@
 
 ---
 ### 🔥 Github Statistics
-(https://github-readme-stats.vercel.app/api?username=frogosa-alea&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![frogosa-alea GitHub stats](https://github-readme-stats.vercel.app/api?username=frogosa-alea&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frogosa-alea&theme=radical)](https://git.io/streak-stats) 
 <br/>
