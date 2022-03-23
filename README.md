@@ -4,8 +4,8 @@
 
 ## I'm a 4th Year Computer Engineering Student from PUP Manila
 
-- 👨‍💻 I’m currently working on frontend web development projects
-- 📚 I’m currently learning database and backend technologies 
+- 👨‍💻 I’m currently working on a fullstack MERN project
+- 📚 I’m currently learning frontend frameworks and backend technologies 
 
 ---
 
@@ -23,6 +23,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ---
 ### IDE 🛠 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
